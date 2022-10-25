@@ -1,0 +1,87 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_students": 23149,
+    "title": "Advanced C Programming Course",
+    "author": {
+      "name": "Jimmy Kugan",
+      "published_date": "2022-05-24 17:27:34",
+      "img": "https://media-exp1.licdn.com/dms/image/C4D03AQGDoizDFRrFug/profile-displayphoto-shrink_800_800/0/1602812774292?e=2147483647&v=beta&t=uatxze4HBGVtn69R4ECagwojsnzaANeCuKHPKmsWNvc"
+    },
+    "image_url": "https://contentstatic.techgig.com/photo/90325682.cms",
+
+    "details": "Become a True Master of the C Programming Language - Confidently Apply for Real Time or Embedded C Jobs or contracts!.Understand and be able to apply advanced concepts of the C programming language to create advanced C applications.Understand Function and Double Pointers, Recursion, Bit Manipulation, Macros, Signals and loads more (check curriculam on this page for full list).Learn all about threads and networking with Sockets."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_students": 221013,
+    "title": "Beginning C++ Programming - From Beginner to Beyond",
+    "author": {
+      "name": "Dr.Frank Mitropoulos",
+      "published_date": "2021-04-30 16:38:45",
+      "img": "https://media-exp1.licdn.com/dms/image/C4D03AQF4mUcpSRo0nw/profile-displayphoto-shrink_800_800/0/1516814723514?e=1672272000&v=beta&t=89t9YxpMEnY-BRBWiyqPSIf-pD2gAY9iN-ieGYQ_Yys"
+    },
+    "image_url": "https://cdn-bfbpk.nitrocdn.com/EKFqJbiebYiQTsJdvVlPmQxxVuITsOud/assets/static/optimized/rev-4402cab/wp-content/uploads/2020/03/Cpp-Programmin.jpg",
+
+    "details": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills.Learn to program with one of the most powerful programming languages that exists today, C++.Obtain the key concepts of programming that will also apply to other programming languages.Learn Modern C++ rather than an obsolete version of C++ that most other courses teach"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_students": 24487,
+    "title": "Python Complete Masterclass for Beginners",
+    "author": {
+      "name": "Mihai Catalin Teodosiu",
+      "published_date": "2022-08-21 17:27:34",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9eClIW0ATa0QQiu9FI9s2DsXJeX4NUjNLsA&usqp=CAU"
+    },
+    "image_url": "https://res.cloudinary.com/dyd911kmh/image/upload/v1646560927/shutterstock_1329434768_bf9003ea47.jpg",
+
+    "details": "Learn Python including Excel/Database/Test/Network Automation, Data Analysis, Web Development, REST APIs, GraphQL & more.You will GAIN CONFIDENCE when asking your manager for a RAISE or going to any Junior or Intermediate Python Developer INTERVIEW.You will ultimately GAIN REAL-LIFE SKILLS: Excel Automation, Database Automation, Data Analysis etc. No silly little games, no useless apps, no filler content!.You will MASTER all the Python 3 key concepts starting FROM SCRATCH. No prior Python knowledge is required."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_students": 99954,
+    "title": "JavaScript Basics to Advance",
+    "author": {
+      "name": "Mosh Hamedani",
+      "published_date": "2021-02-30 16:38:45",
+      "img": "https://img-b.udemycdn.com/user/200_H/712832_5e8d_3.jpg"
+    },
+    "image_url": "https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg",
+
+    "details": "Understand the fundamental concepts in JavaScript.Learn problem-solving skills.Learn and apply the best practices.Avoid common pitfalls and mistakes other JavaScript developers make.Become an advanced, confident, and modern JavaScript developer from scratch.Build 6 beautiful real-world projects for your portfolio (not boring toy apps)"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_students": 176619,
+    "title": "Java Programming for Complete Beginners",
+    "author": {
+      "name": "Allen Shuvro",
+      "published_date": "2020-07-30 16:38:45",
+      "img": "https://mir-s3-cdn-cf.behance.net/user/276/a6a3ba30891181.5c8d0faac1a94.jpg"
+    },
+    "image_url": "https://contentstatic.techgig.com/photo/90078629.cms",
+
+    "details": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification.Learn the core Java skills needed to apply for Java developer positions in just 14 hours.Be able to sit for and pass the Oracle Java Certificate exam if you choose.Be able to demonstrate your understanding of Java to future employers."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "total_students": 13610,
+    "title": "PHP for Beginners",
+    "author": {
+      "name": "Anna D",
+      "published_date": "2020-08-30 16:38:45",
+      "img": "https://img-c.udemycdn.com/user/200_H/42838732_4fa2_3.jpg"
+    },
+    "image_url": "https://miro.medium.com/proxy/0*dYhf8eD1sNuG49Wf.png",
+
+    "details": "Learn how to create a dynamic website using the most popular website programming language.Build a working CMS in PHP and MySQL from scratch.Learn how to secure your code.Learn how to write reusable, more maintainable code using programming standards"
+  }
+]
